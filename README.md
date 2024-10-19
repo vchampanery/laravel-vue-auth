@@ -20,3 +20,11 @@ This is a simple web application built with Laravel and Vue.js that provides bas
 4. Configure your `.env` file for database settings.
 5. Run migrations with `php artisan migrate`.
 6. Start the server with `php artisan serve`.
+
+## Features
+
+- User registration with validation.
+- User login with validation.
+
+http://127.0.0.1:8000/login - login
+http://127.0.0.1:8000/register - register
